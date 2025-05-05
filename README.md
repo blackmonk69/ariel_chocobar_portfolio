@@ -1,3 +1,4 @@
+## Sobre mi  
 "Soy un entusiasta de los datos, la informatica y SCM, si bien mi carrera profesional no tiene exclusivamente que ver con el Analisis de Datos, mas bien estuvo relacionada con SCM, he tenido la oportunidad y la suerte de poder aplicar y pulir mis conocimientos en Analisis de Datos. He trabajado con SAP (MM), bajar movimientos y estadisticas, limpiarlas, ordenarlas y linkearlas a un dashboard en Power Bi.
 Tambien puedo usar como fuente de datos diversos RDBMS como SqlServer o PostgreSQL. Mis conocimientos de Python como programador me permiten sacar provecho de Jupyter Notebooks y Pandas para manipular grandes cantidades de datos."
 # [Project 1: Data Analysis using PostgreSQL, SQL queries for exploratory analysis and Power BI to setup a Dashboard](https://github.com/PlayingNumbers/ds_salary_proj) 
