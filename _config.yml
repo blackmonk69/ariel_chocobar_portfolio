@@ -1,8 +1,6 @@
 title: "   Ariel Chocobar"
 logo: fotoport6.png
-description:   >
-Bienvenidos a mi Portfolio
-<a href="your-link">👔 LinkedIn</a>
+description: "Bienvenidos a mi Portfolio"
 #theme: jekyll-theme-hydejack
 #remote_theme: hydecorp/hydejack@v9
 theme: jekyll-theme-minimal
