@@ -2,5 +2,6 @@ title: "Ariel Chocobar"
 logo: foto5.jpeg
 description: "Bienvenidos a mi Portfolio"
 #theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+#remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-minimal
 
