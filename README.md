@@ -1,6 +1,5 @@
-# ariel_chocobar_portfolio
-
-Data Analysis Portfolio
+# Sobre mi...
+"Soy un entusiasta de los datos, la informatica y SCM, en mi carrera profesional he tenido la oportunidad y la suerte de pulir mis conocimientos en Analisis de Datos. Espero poder seguir aprendiendo"
 
 # [Project 1: Data Analysis using PostgreSQL, SQL queries for exploratory analysis and Power BI to setup a Dashboard](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
