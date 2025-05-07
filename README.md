@@ -13,4 +13,6 @@ StackOverflow carries out an annual survey on developers, we propose to find out
 ## [3 Bike Sharing Dataset](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/Bike_Sharing) 
 Bike Sharing statistics in the UK. A fine and nice EDA which will be helpful tu understand more about the idiosincracy of bikers in the United Kingdom
 ## [4 PowerBI and Canva](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/POWER_BI_CANVA) 
+## [5 Checkout my Projects with PowerBI at NovyPro](https://www.novypro.com/profile_about/arielchocobar?Popup=memberProject&Data=1709583792929x888205407797145500)
+
 
