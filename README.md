@@ -4,7 +4,7 @@ Tambien puedo usar como fuente de datos diversos RDBMS como SqlServer o PostgreS
 ## [1 FIFA 21 - DATA CLEANING AND TRANSFORMATION ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
 ## [2 StackOverflow Survey ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/Stackoverflow_Survey) 
 ## [3 Bike Sharing Dataset](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/Bike_Sharing) 
-## [4 PowerBI and Canva](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/POWERBI_CANVA) 
+## [4 PowerBI and Canva](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/POWER_BI_CANVA) 
 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
