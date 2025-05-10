@@ -13,7 +13,7 @@ StackOverflow carries out an annual survey on developers, we propose to find out
 ## [3 Bike Sharing Dataset](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/Bike_Sharing) 
 Bike Sharing statistics in the UK. A fine and nice EDA which will be helpful tu understand more about the idiosincracy of bikers in the United Kingdom
 ## [4 PowerBI and Canva](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/POWER_BI_CANVA) 
-## [5 Checkout my Project with Big Query and Looker Studio] (https://github.com/blackmonk69/employee-analysis-and-big-query)
+## [5 Checkout my Project with Big Query and Looker Studio](https://github.com/blackmonk69/employee-analysis-and-big-query)
 
 In this project we perform an analysis of employee satisfaction and rating, the repository for the data is Big Query and the dashboard was built in Looker Studio. It is taken from a tutorial in you tube, however a few changes were added mainly in the creation of the tables and the design of the dashboard (e.g. added a section for conclusions).
 
