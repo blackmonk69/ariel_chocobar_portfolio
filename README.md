@@ -14,10 +14,7 @@ StackOverflow carries out an annual survey on developers, we propose to find out
 Bike Sharing statistics in the UK. A fine and nice EDA which will be helpful tu understand more about the idiosincracy of bikers in the United Kingdom
 ## [4 PowerBI and Canva](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/POWER_BI_CANVA) 
 ## [5 Checkout my Project with Big Query and Looker Studio](https://github.com/blackmonk69/employee-analysis-and-big-query)   
-## [6 Beautiful hand-crafted dashboard in Power BI using PostreSQL DB](https://github.com/blackmonk69/PostgreSQL_PowerBi_sales)
-
 In this project we perform an analysis of employee satisfaction and rating, the repository for the data is Big Query and the dashboard was built in Looker Studio. It is taken from a tutorial in you tube, however a few changes were added mainly in the creation of the tables and the design of the dashboard (e.g. added a section for conclusions).
-
-## [5 Checkout my Projects with PowerBI at NovyPro](https://www.novypro.com/profile_about/arielchocobar)
-
-## [6 Project Cinemar - Cinema Management system built with Python and SQL lite 3 Data base following Model-View Controller philosophy](https://github.com/blackmonk69/proyecto-cinemar)
+## [6 Checkout my Projects with PowerBI at NovyPro](https://www.novypro.com/profile_about/arielchocobar)   
+## [7 Project Cinemar - Cinema Management system built with Python and SQL lite 3 Data base following Model-View Controller philosophy](https://github.com/blackmonk69/proyecto-cinemar)    
+## [8 Beautiful hand-crafted dashboard in Power BI using PostreSQL DB](https://github.com/blackmonk69/PostgreSQL_PowerBi_sales)
