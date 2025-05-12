@@ -19,4 +19,4 @@ In this project we perform an analysis of employee satisfaction and rating, the 
 
 ## [5 Checkout my Projects with PowerBI at NovyPro](https://www.novypro.com/profile_about/arielchocobar)
 
-
+## [6 Project Cinemar - Cinema Management system built with Python and SQL lite 3 Data base following Model-View Controller philosophy](https://github.com/blackmonk69/proyecto-cinemar)
