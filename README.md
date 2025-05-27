@@ -18,3 +18,6 @@ In this project we perform an analysis of employee satisfaction and rating, the 
 ## [6 Checkout my Projects with PowerBI at NovyPro](https://www.novypro.com/profile_about/arielchocobar)   
 ## [7 Project Cinemar - Cinema Management system built with Python and SQL lite 3 Data base following Model-View Controller philosophy](https://github.com/blackmonk69/proyecto-cinemar)    
 ## [8 Beautiful hand-crafted dashboard in Power BI using PostreSQL DB](https://github.com/blackmonk69/PostgreSQL_PowerBi_sales)
+## [9 Datawarehouse built using MSSQL Server, Python, SQL and PowerBI](https://github.com/blackmonk69/SQL_DATAWAREHOUSE)
+In this project we build a datawarehouse with the help of some csv files, MSSQL Server, Python. The whole idea is to show an ETL process where the data architecture is organized in layers (bronze, silver and gold) known as Medallion Architecture.
+
