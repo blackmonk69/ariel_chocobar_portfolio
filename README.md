@@ -20,4 +20,4 @@ In this project we perform an analysis of employee satisfaction and rating, the 
 ## [8 Beautiful hand-crafted dashboard in Power BI using PostreSQL DB](https://github.com/blackmonk69/PostgreSQL_PowerBi_sales)
 ## [9 Datawarehouse built using MSSQL Server, Python, SQL and PowerBI](https://github.com/blackmonk69/SQL_DATAWAREHOUSE)
 In this project we build a datawarehouse with the help of some csv files, MSSQL Server, Python. The whole idea is to show an ETL process where the data architecture is organized in layers (bronze, silver and gold) known as Medallion Architecture.
-
+## [10 ML Project - A simple Car Prediction app using python librares and Streamlit](https://github.com/blackmonk69/ML_cars)
