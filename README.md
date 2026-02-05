@@ -21,3 +21,7 @@ In this project we perform an analysis of employee satisfaction and rating, the 
 ## [9 Datawarehouse built using MSSQL Server, Python, SQL and PowerBI](https://github.com/blackmonk69/SQL_DATAWAREHOUSE)
 In this project we build a datawarehouse with the help of some csv files, MSSQL Server, Python. The whole idea is to show an ETL process where the data architecture is organized in layers (bronze, silver and gold) known as Medallion Architecture.
 ## [10 ML Project - A simple Car Prediction app using python librares and Streamlit](https://github.com/blackmonk69/ML_cars)
+## [11 Simple FastApi example to show the simplicity of using SQLModel](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/Bike_Sharing) 
+This is a purely pedagogical example, it does not contain routers, MVC concepts, secrets in env files, etc. It is just some code snippets showing the power of this ORM. As a plus it was tested using Postman. 
+
+
