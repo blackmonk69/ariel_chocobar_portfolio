@@ -23,5 +23,7 @@ In this project we build a datawarehouse with the help of some csv files, MSSQL 
 ## [10 ML Project - A simple Car Prediction app using python librares and Streamlit](https://github.com/blackmonk69/ML_cars)
 ## [11 Simple FastApi example to show the simplicity of using SQLModel](https://github.com/blackmonk69/API_DBTASKS) 
 This is a purely pedagogical example, it does not contain routers, MVC concepts, secrets in env files, error handling, etc. Just a few lines of basic code snippets showing the power of this ORM. This API handles a DB hosted in Neon website, the engine creates the tables if not existant, 2 endpoints: read tasks and create a task. 
+## [12 A more advanced FastApi project using Alembic to handle DB migrations) 
+This is a purely pedagogical example, it does not contain routers, MVC concepts, secrets in env files, error handling, etc. Just a few lines of basic code snippets showing the power of this ORM. This API handles a DB hosted in Neon website, the engine creates the tables if not existant, 2 endpoints: read tasks and create a task. 
 
 
