@@ -7,7 +7,7 @@ This is a purely pedagogical example, it does not contain routers, MVC concepts,
 ## [3 A more advanced FastApi project using Alembic to handle DB migrations](https://github.com/blackmonk69/render_fastapi) 
 In this example we dig dipper into FastApi file structure, we have different spaces for schemas and models, we have a file for setting a db file, a sqlite format stored locally in the source folder. We learn how to work with tables, and endpoints (routers not yet). We let alembic handle tables creation and migrations. Again pay attention at how easy it is to handle database operations with SQLModel. To perform some of the testing I have used fastapi original builtin functionality and an extension for VSCode and Rest Client. There is also another extension to edit and visualize sqlite files, it is Sqlviewer, an extension very small yet powerful for VScode
 ## [4 A minimalistic FastApi showing how to deploy in Render with a DB hosted in Neon](https://github.com/blackmonk69/API_DBTASKS) 
-There are times when we do not need a big infrastracture, cause our Api's will not reach a large crowd of people, in those cases we can resort to Render for hosting our services, in this case the DB is a Postgres hosted in Neon.
+There are times when we do not need a big infrastracture, cause our Api's will not reach a large crowd of people, in those cases we can resort to Render for hosting our services, in this case the DB is a Postgres hosted in Neon. To have a look at it visit: https://render-fastapi-vohi.onrender.com/docs
 
 ## [4 FIFA 21 - DATA CLEANING AND TRANSFORMATION ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
