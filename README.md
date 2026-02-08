@@ -6,7 +6,7 @@
 This is a purely pedagogical example, it does not contain routers, MVC concepts, secrets in env files, error handling, etc. Just a few lines of basic code snippets showing the power of this ORM. This API handles a DB hosted in Neon website, the engine creates the tables if not existant, 2 endpoints: read tasks and create a task. 
 ## [3 A more advanced FastApi project using Alembic to handle DB migrations](https://github.com/blackmonk69/render_fastapi) 
 In this example we dig dipper into FastApi file structure, we have different spaces for schemas and models, we have a file for setting a db file, a sqlite format stored locally in the source folder. We learn how to work with tables, and endpoints (routers not yet). We let alembic handle tables creation and migrations. Again pay attention at how easy it is to handle database operations with SQLModel. To perform some of the testing I have used fastapi original builtin functionality and an extension for VSCode and Rest Client. There is also another extension to edit and visualize sqlite files, it is Sqlviewer, an extension very small yet powerful for VScode
-## [4 A minimalistic FastApi showing how to deploy in Render with a DB hosted in Neon(https://github.com/blackmonk69/API_DBTASKS) 
+## [4 A minimalistic FastApi showing how to deploy in Render with a DB hosted in Neon](https://github.com/blackmonk69/API_DBTASKS) 
 There are times when we do not need a big infrastracture, cause our Api's will not reach a large crowd of people, in those cases we can resort to Render for hosting our services, in this case the DB is a Postgres hosted in Neon.
 
 ## [4 FIFA 21 - DATA CLEANING AND TRANSFORMATION ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
