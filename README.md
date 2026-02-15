@@ -1,9 +1,9 @@
 # About me
-"I'm a data, IT, and SCM enthusiast. Although my professional career hasn't been exclusively related to Data Analysis, but rather to SCM, I've had the opportunity and the fortune to apply and hone my knowledge in Data Analysis. I've worked with SAP (MM), handling and using transactions and data, cleaning them, sorting them, and linking them to a Power BI dashboard. I can also use various RDBMSs such as SQL Server and PostgreSQL as data sources. My Python programming skills allow me to leverage Jupyter Notebooks and Pandas to manipulate large amounts of data."
+"I'm a data, IT, and SCM enthusiast. Although my professional career hasn't been exclusively related to Data Analysis, but rather to SCM, I've had the opportunity and the fortune to apply and hone my knowledge in Data Analysis. I've worked with SAP (MM), handling and using transactions and data, cleaning them, sorting them, and linking them to a Power BI dashboard. I can also use various RDBMSs such as SQL Server and PostgreSQL as data sources. My Python programming skills allow me to leverage Jupyter Notebooks and Pandas to manipulate large amounts of data.Throughout my career, I have expanded my expertise into QA Automation and Manual Testing, developing a robust technical foundation in software quality assurance."
 
 ## [1 ML Project - A simple Car Prediction app using python librares and Streamlit](https://github.com/blackmonk69/ML_cars)
 ## [2 Simple FastApi example to show the simplicity of using SQLModel](https://github.com/blackmonk69/API_DBTASKS) 
-This is a purely pedagogical example, it does not contain routers, MVC concepts, secrets in env files, error handling, etc. Just a few lines of basic code snippets showing the power of this ORM. This API handles a DB hosted in Neon website, the engine creates the tables if not existant, 2 endpoints: read tasks and create a task. 
+This is a purely educational example, it does not contain routers, MVC concepts, secrets in env files, error handling, etc. Just a few lines of basic code snippets showing the power of this ORM. This API handles a DB hosted in Neon website, the engine creates the tables if not existant, 2 endpoints: read tasks and create a task. 
 ## [3 A more advanced FastApi project using Alembic to handle DB migrations](https://github.com/blackmonk69/render_fastapi) 
 In this example we dig dipper into FastApi file structure, we have different spaces for schemas and models, we have a file for setting a db file, a sqlite format stored locally in the source folder. We learn how to work with tables, and endpoints (routers not yet). We let alembic handle tables creation and migrations. Again pay attention at how easy it is to handle database operations with SQLModel. To perform some of the testing I have used fastapi original builtin functionality and an extension for VSCode and Rest Client. There is also another extension to edit and visualize sqlite files, it is Sqlviewer, an extension very small yet powerful for VScode
 ## [4 A minimalistic FastApi showing how to deploy in Render with a DB hosted in Neon](https://github.com/blackmonk69/API_DBTASKS) 
@@ -11,6 +11,9 @@ There are times when we do not need a big infrastracture, cause our Api's will n
 
 ## [5 A minimalistic Postman Project working with Collections and Runners](https://github.com/blackmonk69/postman_runner) 
 This small project shows how we can work with collections and at the final stage of testS we do a runner with the requests we created. 
+
+## [6 Uses Cases for Playwright Testing](https://github.com/blackmonk69/PLAYWRIGHT/tree/main) 
+Example of typical situations where Playwright and Pytest are used.
 
 ## [6 FIFA 21 - DATA CLEANING AND TRANSFORMATION ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
