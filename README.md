@@ -28,15 +28,20 @@
 ## Fast API dev
   ### [Simple FastApi example to show the simplicity of using SQLModel](https://github.com/blackmonk69/API_DBTASKS) 
   This is a purely educational example, it does not contain routers, MVC concepts, secrets in env files, error handling, etc. Just a few lines of basic code snippets showing the power of this ORM. This API handles a DB hosted in Neon website, the engine creates the tables if not existant, 2 endpoints: read tasks and create a task. 
+  
   ### [A more advanced FastApi project using Alembic to handle DB migrations](https://github.com/blackmonk69/render_fastapi) 
   In this example we dig dipper into FastApi file structure, we have different spaces for schemas and models, we have a file for setting a db file, a sqlite format stored locally in the source folder. We learn how to work with tables, and endpoints (routers not yet). We let alembic handle tables creation and migrations. Again pay attention at how easy it is to handle database operations with SQLModel. To perform some of the testing I have used fastapi original builtin functionality and an extension for VSCode and Rest Client. There is also another extension to edit and visualize sqlite files, it is Sqlviewer, an extension very small yet powerful for VScode
+  
   ### [A minimalistic FastApi showing how to deploy in Render with a DB hosted in Neon](https://github.com/blackmonk69/API_DBTASKS) 
   There are times when we do not need a big infrastracture, cause our Api's will not reach a large crowd of people, in those cases we can resort to Render for hosting our services, in this case the DB is a Postgres hosted in Neon. To have a look at it visit: https://render-fastapi-vohi.onrender.com/docs
 
 ## Miscellaneous
   ### [ML Project - A simple Car Prediction app using python librares and Streamlit](https://github.com/blackmonk69/ML_cars)
+  
   ### [Project Cinemar - Cinema Management system built with Python and SQL lite 3 Data base following Model-View Controller philosophy](https://github.com/blackmonk69/proyecto-cinemar)    
+  
   ### [Beautiful hand-crafted dashboard in Power BI using PostreSQL DB](https://github.com/blackmonk69/PostgreSQL_PowerBi_sales)
+  
   ### [Datawarehouse built using MSSQL Server, Python, SQL and PowerBI](https://github.com/blackmonk69/SQL_DATAWAREHOUSE)
   In this project we build a datawarehouse with the help of some csv files, MSSQL Server, Python. The whole idea is to show an ETL process where the data architecture is organized in layers (bronze, silver and gold) known as Medallion Architecture.
 
