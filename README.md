@@ -1,7 +1,7 @@
 # About me
 "I'm a data, IT, and SCM enthusiast. Although my professional career hasn't been exclusively related to Data Analysis, but rather to SCM, I've had the opportunity and the fortune to apply and hone my knowledge in Data Analysis. I've worked with SAP (MM), handling and using transactions and data, cleaning them, sorting them, and linking them to a Power BI dashboard. I can also use various RDBMSs such as SQL Server and PostgreSQL as data sources. My Python programming skills allow me to leverage Jupyter Notebooks and Pandas to manipulate large amounts of data.Throughout my career, I have expanded my expertise into QA Automation and Manual Testing, developing a robust technical foundation in software quality assurance."
 
-#Projects
+# Projects
 ## QA Testing
   ### [A minimalistic Postman Project working with Collections and Runners](https://github.com/blackmonk69/postman_runner) 
   This small project shows how we can work with collections and at the final stage of testS we do a runner with the requests we created. 
