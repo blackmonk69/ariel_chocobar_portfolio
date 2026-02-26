@@ -18,7 +18,7 @@
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
 ### [Creating a pdf parser with Antigravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/PDF2JSON) 
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
-### [Creating a nice timer with sounds using anti gravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/PDF2JSON) 
+### [Creating a nice timer with sounds using anti gravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/NICE%20TIMER) 
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
 
 ## Data Analysis
