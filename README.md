@@ -14,9 +14,9 @@
   Example of typical situations where Playwright and Pytest are used.
 
 ## AntiGravity and Vibe Coding
-### [Creating a pdf parser with Google AI Studio](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
+### [Creating a pdf parser with Google AI Studio](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/pdf-to-structured-json-parser) 
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
-### [Creating a pdf parser with Antigravity](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
+### [Creating a pdf parser with Antigravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/PDF2JSON) 
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
 
 
