@@ -13,6 +13,13 @@
   ### [Uses Cases for Playwright Testing](https://github.com/blackmonk69/PLAYWRIGHT/tree/main) 
   Example of typical situations where Playwright and Pytest are used.
 
+## AntiGravity and Vibe Coding
+### [Creating a pdf parser with Google AI Studio](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
+Dataset with statistics from FIFA 21, where we perform basic operations on the data.
+### [Creating a pdf parser with Antigravity](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
+Dataset with statistics from FIFA 21, where we perform basic operations on the data.
+
+
 ## Data Analysis
   ### [FIFA 21 - DATA CLEANING AND TRANSFORMATION ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
   Dataset with statistics from FIFA 21, where we perform basic operations on the data.
