@@ -15,11 +15,11 @@
 
 ## AntiGravity and Vibe Coding
 ### [Creating a pdf parser with Google AI Studio](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/pdf-to-structured-json-parser) 
-Dataset with statistics from FIFA 21, where we perform basic operations on the data.
-### [Creating a pdf parser with Antigravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/PDF2JSON) 
-Dataset with statistics from FIFA 21, where we perform basic operations on the data.
-### [Creating a nice timer with sounds using anti gravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/NICE%20TIMER) 
-Dataset with statistics from FIFA 21, where we perform basic operations on the data.
+In this real life case, we have invoice in pdf format and we need to parse them and extract data in json format, e.g. name, email, etc. It offers to options to parse. Ollama Local LLM and Gemini. Ollama is an option in case we are not allowed to upload corporate documents into an IA. This app was built with Google AI Studio.
+### [Creating a pdf parser with Antigravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/PDF2JSON).
+In this real life case, we have invoice in pdf format and we need to parse them and extract data in json format, e.g. name, email, etc. It offers to options to parse. Ollama Local LLM and Gemini. Ollama is an option in case we are not allowed to upload corporate documents into an IA. This app was built with Google AI Studio. This app was built with Google AntiGravity.
+### [Creating a nice timer with sounds using Google AntiGravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/NICE%20TIMER) 
+A very simple example of creating an app using Antigravity. A timer with an option to indicate the minutes and a gentle sound when it reaches 0:00.
 
 ## Data Analysis
   ### [FIFA 21 - DATA CLEANING AND TRANSFORMATION ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
