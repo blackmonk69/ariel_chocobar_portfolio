@@ -3,6 +3,8 @@
 
 # Projects
 ## QA Testing
+### [Complete Project with Postman and BookerAPI]([https://github.com/blackmonk69/postman_runner](https://github.com/blackmonk69/SOFTWARE-TESTING-PROJECT-MIO) 
+  This project deals with Postman and shows test cases and a test plan, it includes the envirnomente and collections files for you to import into your Postman app. 
 ### [A minimalistic Postman Project working with Collections and Runners](https://github.com/blackmonk69/postman_runner) 
   This small project shows how we can work with collections and at the final stage of testS we do a runner with the requests we created. 
 ### [A mid level Postman Project working with Collections and Runners with a public API from Reqres.in](https://github.com/blackmonk69/PLAYWRIGHT/tree/main/REQREST_PROJECT) 
