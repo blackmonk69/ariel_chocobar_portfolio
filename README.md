@@ -12,7 +12,7 @@
 
 ---
 # Projects
-## QA Testing
+# QA Testing
 ### [Complete Project with Postman and BookerAPI](https://github.com/blackmonk69/Postman_project_bookerAPI)
   This project deals with Postman and shows test cases and a test plan, it includes the envirnomente and collections files for you to import into your Postman app. 
 ### [A minimalistic Postman Project working with Collections and Runners](https://github.com/blackmonk69/postman_runner) 
@@ -22,7 +22,7 @@
 ### [Uses Cases for Playwright Testing](https://github.com/blackmonk69/PLAYWRIGHT/tree/main) 
   Example of typical situations where Playwright and Pytest are used.
 
-## AntiGravity and Vibe Coding
+# AntiGravity and Vibe Coding
 ### [Creating a pdf parser with Google AI Studio](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/pdf-to-structured-json-parser) 
 In this real life case, we have invoice in pdf format and we need to parse them and extract data in json format, e.g. name, email, etc. It offers to options to parse. Ollama Local LLM and Gemini. Ollama is an option in case we are not allowed to upload corporate documents into an IA. This app was built with Google AI Studio.
 ### [Creating a pdf parser with Antigravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/PDF2JSON).
