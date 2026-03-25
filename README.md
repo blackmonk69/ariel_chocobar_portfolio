@@ -21,7 +21,7 @@ In this real life case, we have invoice in pdf format and we need to parse them 
 A very simple example of creating an app using Antigravity. A timer with an option to indicate the minutes and a gentle sound when it reaches 0:00.
 
 ## Data Analysis
-### [MARKETING ANALYSIS - SQL SERVER - PYTHON - POWER BI- PRESENTING INSIGHTS](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
+### [MARKETING ANALYSIS - SQL SERVER - PYTHON - POWER BI- PRESENTING INSIGHTS](https://github.com/blackmonk69/MARKETING_ANALYSIS). 
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
 
 ### [FIFA 21 - DATA CLEANING AND TRANSFORMATION ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
