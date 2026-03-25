@@ -1,6 +1,16 @@
 # About me
 "I'm a data, IT, and SCM enthusiast. Although my professional career hasn't been exclusively related to Data Analysis, but rather to SCM, I've had the opportunity and the fortune to apply and hone my knowledge in Data Analysis. I've worked with SAP (MM), handling and using transactions and data, cleaning them, sorting them, and linking them to a Power BI dashboard. I can also use various RDBMSs such as SQL Server and PostgreSQL as data sources. My Python programming skills allow me to leverage Jupyter Notebooks and Pandas to manipulate large amounts of data.Throughout my career, I have expanded my expertise into QA Automation and Manual Testing, developing a robust technical foundation in software quality assurance."
 
+## 📌 Table of Contents
+* [🧪 QA Testing](#qa-testing)
+* [🌌 AntiGravity and Vibe Coding](#antigravity-and-vibe-coding)
+* [📊 Data Analysis](#data-analysis)
+* [⚡ Fast API dev](#fast-api-dev)
+* [📂 Miscellaneous](#miscellaneous)
+
+---
+
+---
 # Projects
 ## QA Testing
 ### [Complete Project with Postman and BookerAPI](https://github.com/blackmonk69/Postman_project_bookerAPI)
@@ -20,7 +30,7 @@ In this real life case, we have invoice in pdf format and we need to parse them 
 ### [Creating a nice timer with sounds using Google AntiGravity](https://github.com/blackmonk69/ANTIGRAVITY-PROJECTS-GITHUB/tree/main/NICE%20TIMER) 
 A very simple example of creating an app using Antigravity. A timer with an option to indicate the minutes and a gentle sound when it reaches 0:00.
 
-## Data Analysis
+# Data Analysis
 ### [MARKETING ANALYSIS - SQL SERVER - PYTHON - POWER BI- PRESENTING INSIGHTS](https://github.com/blackmonk69/MARKETING_ANALYSIS). 
 This marketing analytics project integrates SQL, Python, and Power BI to transform raw customer data into a strategic decision-making tool. It features advanced sentiment analysis of reviews and interactive dashboards to provide stakeholders with actionable, data-driven insights..
 
