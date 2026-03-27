@@ -35,7 +35,7 @@ A very simple example of creating an app using Antigravity. A timer with an opti
 This marketing analytics project integrates SQL, Python, and Power BI to transform raw customer data into a strategic decision-making tool. It features advanced sentiment analysis of reviews and interactive dashboards to provide stakeholders with actionable, data-driven insights.
 
 
-### [End to End project - Uploading files into SQL Server, injecting into Power BI, building Dashboard](https://github.com/blackmonk69/MARKETING_ANALYSIS). 
+### [End to End project - Uploading files into SQL Server, injecting into Power BI, building Dashboard](https://github.com/blackmonk69/SQL-POWERBI). 
 This end-to-end project demonstrates a complete data pipeline, from consolidating multi-year sales records in SQL to building a dynamic Power BI dashboard for margin analysis. By transforming raw data into strategic insights, I identified critical profitability trends and delivered data-backed pricing recommendations.
 
 
