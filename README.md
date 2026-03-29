@@ -39,7 +39,7 @@ This marketing analytics project integrates SQL, Python, and Power BI to transfo
 This end-to-end project demonstrates a complete data pipeline, from consolidating multi-year sales records in SQL to building a dynamic Power BI dashboard for margin analysis. By transforming raw data into strategic insights, I identified critical profitability trends and delivered data-backed pricing recommendations.
 
 ### [End to End project - Argentine Football API ETL Pipeline](https://github.com/blackmonk69/api_soccer_pipeline/tree/main). 
-This end-to-end project demonstrates a complete data pipeline, from consolidating multi-year sales records in SQL to building a dynamic Power BI dashboard for margin analysis. By transforming raw data into strategic insights, I identified critical profitability trends and delivered data-backed pricing recommendations.
+This project implements a data pipeline (ETL) using Python to extract football league standings from an external API, transform the data into a structured format, and load it into a SQL Server database for further analysis and visualization..
 
 ### [FIFA 21 - DATA CLEANING AND TRANSFORMATION ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
