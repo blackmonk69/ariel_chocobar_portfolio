@@ -34,7 +34,6 @@ A very simple example of creating an app using Antigravity. A timer with an opti
 ### [MARKETING ANALYSIS - SQL SERVER - PYTHON - POWER BI- PRESENTING INSIGHTS](https://github.com/blackmonk69/MARKETING_ANALYSIS). 
 This marketing analytics project integrates SQL, Python, and Power BI to transform raw customer data into a strategic decision-making tool. It features advanced sentiment analysis of reviews and interactive dashboards to provide stakeholders with actionable, data-driven insights.
 
-
 ### [End to End project - Uploading files into SQL Server, injecting into Power BI, building Dashboard](https://github.com/blackmonk69/SQL-POWERBI). 
 This end-to-end project demonstrates a complete data pipeline, from consolidating multi-year sales records in SQL to building a dynamic Power BI dashboard for margin analysis. By transforming raw data into strategic insights, I identified critical profitability trends and delivered data-backed pricing recommendations.
 
@@ -44,6 +43,8 @@ This project demonstrates the development of an end-to-end data pipeline, transf
 ### [End to End project - Argentine Football API ETL Pipeline](https://github.com/blackmonk69/api_soccer_pipeline/tree/main). 
 This project implements a data pipeline (ETL) using Python to extract football league standings from an external API, transform the data into a structured format, and load it into a SQL Server database for further analysis and visualization..
 
+### [PROJECT 10 SALARY ANALYSIS - Python Notebook](https://github.com/blackmonk69/PROJECT-10-SALARY-ANALYSIS). 
+This repository contains an exploratory data analysis (EDA) project focused on salary data for different technology and data‑related roles. The analysis is based on the dataset Salary_Dataset_DSL.csv and performed using Python.
 
 ### [FIFA 21 - DATA CLEANING AND TRANSFORMATION ](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/FIFA_21) 
 Dataset with statistics from FIFA 21, where we perform basic operations on the data.
