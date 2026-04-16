@@ -31,12 +31,20 @@ In this real life case, we have invoice in pdf format and we need to parse them 
 A very simple example of creating an app using Antigravity. A timer with an option to indicate the minutes and a gentle sound when it reaches 0:00.
 
 # Data Analysis
+### [Miscellaneous Dashboards explained](https://github.com/blackmonk69/misc_dashboards)  
+<img src="capturas/auto.png" width="45%" /> <img src="capturas/prime_video.png" width="45%" />
+<center>
+  <img src="capturas/watch.png" width="45%" />
+</center>
+
+
 ### [MARKETING ANALYSIS - SQL SERVER - PYTHON - POWER BI- PRESENTING INSIGHTS](https://github.com/blackmonk69/MARKETING_ANALYSIS). 
 <img src="capturas/marketin2.png" width="45%" /> <img src="capturas/marketing1.png" width="45%" />
 
 This marketing analytics project integrates SQL, Python, and Power BI to transform raw customer data into a strategic decision-making tool. It features advanced sentiment analysis of reviews and interactive dashboards to provide stakeholders with actionable, data-driven insights.
 
 ### [End to End project - Uploading files into SQL Server, injecting into Power BI, building Dashboard](https://github.com/blackmonk69/SQL-POWERBI). 
+<img src="capturas/powerbi_sql_server.png" width="45%" /> <img src="capturas/sql server.png" width="45%" />
 This end-to-end project demonstrates a complete data pipeline, from consolidating multi-year sales records in SQL to building a dynamic Power BI dashboard for margin analysis. By transforming raw data into strategic insights, I identified critical profitability trends and delivered data-backed pricing recommendations.
 
 ### [Cross-Platform Marketing Performance Analysis](https://github.com/blackmonk69/PARA_IMPROVADO). 
@@ -54,10 +62,11 @@ Dataset with statistics from FIFA 21, where we perform basic operations on the d
 StackOverflow carries out an annual survey on developers, we propose to find out more about them in this project.
 ### [Bike Sharing Dataset](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/Bike_Sharing) 
 Bike Sharing statistics in the UK. A fine and nice EDA which will be helpful tu understand more about the idiosincracy of bikers in the United Kingdom
-### [PowerBI and Canva](https://github.com/blackmonk69/PORTFOLIO-GITHUB-DATA-ANALYTICS/tree/main/POWER_BI_CANVA) 
-### [Checkout my Project with Big Query and Looker Studio](https://github.com/blackmonk69/employee-analysis-and-big-query)   
+### [Checkout my Project with Big Query and Looker Studio](https://github.com/blackmonk69/employee-analysis-and-big-query) 
+ <img src="capturas\screenshot_bigquery.jpg" width="45%" /> <img src="capturas\screenshot_looker.jpg" width="45%" /> 
+
 In this project we perform an analysis of employee satisfaction and rating, the repository for the data is Big Query and the dashboard was built in Looker Studio. It is taken from a tutorial in you tube, however a few changes were added mainly in the creation of the tables and the design of the dashboard (e.g. added a section for conclusions).
-### [Miscellaneous Dashboards explained](https://github.com/blackmonk69/misc_dashboards)  
+
 
 ## Fast API dev
 ### [Simple FastApi example to show the simplicity of using SQLModel](https://github.com/blackmonk69/API_DBTASKS) 
