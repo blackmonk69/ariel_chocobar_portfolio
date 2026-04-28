@@ -37,6 +37,10 @@ A very simple example of creating an app using Antigravity. A timer with an opti
   <img src="capturas/watch.png" width="45%" />
 </center>
 
+### [META AD ANALYSIS IN POWER BI](https://github.com/blackmonk69/insta_face_project/blob/main/README.md). 
+<img src="capturas/marketin2.png" width="45%" /> <img src="capturas/marketing1.png" width="45%" />
+
+This marketing analytics project integrates SQL, Python, and Power BI to transform raw customer data into a strategic decision-making tool. It features advanced sentiment analysis of reviews and interactive dashboards to provide stakeholders with actionable, data-driven insights.
 
 ### [MARKETING ANALYSIS - SQL SERVER - PYTHON - POWER BI- PRESENTING INSIGHTS](https://github.com/blackmonk69/MARKETING_ANALYSIS). 
 <img src="capturas/marketin2.png" width="45%" /> <img src="capturas/marketing1.png" width="45%" />
