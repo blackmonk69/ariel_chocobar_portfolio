@@ -38,7 +38,7 @@ A very simple example of creating an app using Antigravity. A timer with an opti
 </center>
 
 ### [META AD ANALYSIS IN POWER BI](https://github.com/blackmonk69/insta_face_project/blob/main/README.md). 
-<img src="capturas/captura_face.png" width="45%" /> 
+<img src="capturas/Captura_face.png" width="45%" /> 
 
 This Power BI project delivers an industry-level analysis of Meta Ad performance by transforming raw Facebook and Instagram data into strategic insights. It combines advanced data modeling with a professional UI designed in Figma to track critical KPIs like conversion rates and funnel efficiency.
 
